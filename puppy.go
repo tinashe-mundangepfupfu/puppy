@@ -22,6 +22,6 @@ func From11() string {
 	return "this is version v1.1.0"
 }
 
-func From12() string {
-	return "this is version v1.2.0"
+func From13() string {
+	return "this is version v1.3.0"
 }
